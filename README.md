@@ -7,7 +7,7 @@
 Python 3.x, NumPy 2.2.x, Matplotlib 3.10.x
 ```
 
-## Installion
+## Installation
 
   You can clone the reporitory using the following command:
   ```
@@ -32,7 +32,7 @@ y = m1 * x + m2 + Gaussuian Noise(0,1)
 
 ```
 m1 = 6.9
-m2 = 4.2
+m2 = 2.5
 ```
 
 ## Results
